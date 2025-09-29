@@ -5,6 +5,8 @@ description: Lecture notes on economic development, 18th century ideas, post Wor
 file: /courses/11-167-economic-development-technical-capabilities-spring-2004/84d18a5dcdc472cade9ec3a0c771b368_lec_3.pdf
 file_size: 38723
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

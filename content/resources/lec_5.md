@@ -5,6 +5,8 @@ description: Lecture notes on economic development, outsourcing, imperialism, te
 file: /courses/11-167-economic-development-technical-capabilities-spring-2004/8f4ea77b339ca7b7d04f8606b87b2c66_lec_5.pdf
 file_size: 39394
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

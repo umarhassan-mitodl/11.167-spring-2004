@@ -5,8 +5,6 @@ description: Lecture notes with an introduction to economic history, labor scarc
 file: /courses/11-167-economic-development-technical-capabilities-spring-2004/988f05430ccacea0ff0c9350808b749b_lec_1.pdf
 file_size: 29964
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
